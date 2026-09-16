@@ -1,1 +1,1 @@
-print("kaut ko citu!")
+print("Nomaina sveiciena tekstu uz kaut ko citu!")
