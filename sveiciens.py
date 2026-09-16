@@ -1,0 +1,1 @@
+print("Mans pirmais commit!")
