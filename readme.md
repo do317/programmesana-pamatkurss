@@ -11,7 +11,7 @@ Md nav parastos, jo var formatēt
 
 ## Kā palaist  
 
-- cd uz *pareizo* folderi  
+- cd uz **pareizo** folderi  
 - python ./saite.py  
 
 ## Licence  
