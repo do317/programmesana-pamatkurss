@@ -21,12 +21,12 @@ print(sakums, time.time());
 
 def saskaita(dati):
     sum = 0
-    for k,v in pairs(dati):
+    for k,v in enumerate(dati):
         sum += k,v
     return sum
 def saskaitaSquared(dati):
     sum = 0
-    for k,v in pairs(dati):
+    for k,v in enumerate(dati):
         sum += saskaita(dati)
     return sum
 
